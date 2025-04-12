@@ -20,7 +20,7 @@ Built for content creators, developers, and editors who need quick results with 
 To get started, clone the repository and set up the environment:
 
 ```bash
-git clone https://github.com/yourusername/framefocus.git
+git clone https://github.com/CEORocks/framefocus.git
 cd framefocus
 python3 -m venv venv
 source venv/bin/activate
@@ -88,13 +88,6 @@ framefocus.process_video("/path/to/video.mp4", "/path/to/output.mp4")
 
 FrameFocus performs best with videos that have clear separation between content and background. Results may vary with highly dynamic or complex footage. For consistent results, use videos with plain borders or obvious framing.
 
----
-
-## 🙌 Acknowledgments
-
-Developed and maintained by [Your Name]. Inspired by the everyday need for smarter, faster video editing solutions.
-
----
 
 ## 📄 License
 
